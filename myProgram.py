@@ -17,7 +17,7 @@ class Vehicle:
         print("The vehicle is in driving mode now.")
 
 
-vios = Vehicle('4', 'petrol', 5, 180)
+
 print(vios.number_of_wheels)
 print(vios.type_of_tank)
 print(vios.seating_capacity)
